@@ -51,9 +51,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-### Docusaurus Documentation 
-
-# Website
+#### 3. Docusaurus Documentation 
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
