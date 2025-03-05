@@ -53,7 +53,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 #### 3. Docusaurus Documentation 
 
-This documentation of the project is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+The documentation of the project is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 
