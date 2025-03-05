@@ -1,0 +1,75 @@
+/* globals.css */
+
+/* Dark background, white text by default */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #121212;
+  color: #fff;
+}
+
+/* Center content, add some spacing */
+main {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #1e1e1e; 
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+/* Table headers */
+th {
+  text-align: left;
+  font-weight: 600;
+  padding: 0.75rem;
+  background-color: #292929;
+  border-bottom: 1px solid #444;
+}
+
+/* Table cells */
+td {
+  padding: 0.75rem;
+  border-bottom: 1px solid #333;
+}
+
+/* Add a hover highlight for table rows */
+tr:hover {
+  background-color: #2b2b2b;
+}
+
+/* Make the search bar stand out */
+input[type="text"] {
+  padding: 0.5rem;
+  border-radius: 4px;
+  border: none;
+  outline: none;
+}
+
+/* Style the refresh button */
+button {
+  padding: 0.5rem 1rem;
+  margin-right: 1rem;
+  background-color: #3b3e42;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Tweak the main title */
+h1 {
+  text-align: center;
+  color: #f7fbff;
+}
